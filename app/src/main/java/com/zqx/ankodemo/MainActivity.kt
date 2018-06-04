@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         val mainUI = MainUI()
         mainUI.setContentView(this)
-        val skuList = MockData.getSkuList()
+        val skuList = MockData.skuList
         mainUI.setSkuList(skuList)
 
     }
