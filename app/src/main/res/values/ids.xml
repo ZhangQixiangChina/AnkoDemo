@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="iv" type="id" />
+    <item name="iv_sku_image" type="id" />
+    <item name="tv_sku_name" type="id" />
+    <item name="tv_sku_price" type="id" />
+    <item name="btn_buy" type="id" />
+</resources>
